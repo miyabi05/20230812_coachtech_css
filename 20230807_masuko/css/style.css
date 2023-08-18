@@ -19,8 +19,8 @@
 
 img {
   position: relative;
-  top: 180px;
-  left: 750px;
+  margin-top: 80%;
+  left: 50%;
   width: 50%;
   height: 50%;
   z-index: 10;
@@ -28,6 +28,7 @@ img {
 
 .slogan{
   font-size: 50px;
+  margin-top: -10%;
   margin-bottom: 0;
   margin-left: -10px;
   font-family: 'Noto Sans JP', sans-serif;
@@ -36,7 +37,7 @@ img {
 
 .box{
   background-color:navy;
-  width: 850px;
+  width: 650px;
   height: 150px;
   margin-top: -12px;
   margin-left: -10px;
