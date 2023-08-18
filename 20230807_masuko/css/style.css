@@ -28,9 +28,9 @@ img {
 
 .slogan{
   font-size: 50px;
-  margin-top: -10%;
-  margin-bottom: 0;
-  margin-left: -10px;
+  margin-top: -15%;
+  margin-bottom: -1%;
+  margin-left: -1%;
   font-family: 'Noto Sans JP', sans-serif;
   font-weight: lighter;
 }
@@ -39,8 +39,8 @@ img {
   background-color:navy;
   width: 650px;
   height: 150px;
-  margin-top: -12px;
-  margin-left: -10px;
+  margin-top: 0%;
+  margin-left: -1%;
   position: relative;
   z-index: 0;
 }
