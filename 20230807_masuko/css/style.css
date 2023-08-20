@@ -19,8 +19,7 @@
 
 img {
   position: relative;
-  margin-top: 80%;
-  left: 50%;
+  left: 60%;
   width: 50%;
   height: 50%;
   z-index: 10;
@@ -37,8 +36,8 @@ img {
 
 .box{
   background-color:navy;
-  width: 650px;
-  height: 150px;
+  width: 950px;
+  height: 200px;
   margin-top: 0%;
   margin-left: -1%;
   position: relative;
